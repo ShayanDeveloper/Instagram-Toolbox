@@ -41,7 +41,7 @@ def Print_Logo():
 def Clear():
 	if os.name == 'nt':
 		os.system('cls')
-		os.system('title User Grabber - By .::Shayan::.')
+		os.system('title User Checker - By .::Shayan::.')
 	else:
 		os.system('clear')
 
